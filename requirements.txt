@@ -1,0 +1,12 @@
+langchain
+langchain-community
+faiss-cpu
+openai
+sqlalchemy
+pymysql
+python-dotenv
+pandas
+sentence-transformers
+ctransformers
+PyPDF2
+chainlit
